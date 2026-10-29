@@ -1,6 +1,6 @@
 # Hey there, I'm Prajwal! 👋
 
-### 📊 Business Analytics Enthusiast | 🤖 Machine Learning Explorer | 📈 Data-Driven Problem Solver
+### 📊 Business Analytics Enthusiast | 📈 Data-Driven Problem Solver
 
 I'm passionate about **Business Analytics, Data Analysis, Machine Learning, and using technology to solve real-world problems**. I enjoy exploring data, identifying patterns, and transforming information into meaningful insights that support better business decisions.
 
