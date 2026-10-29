@@ -15,26 +15,17 @@ With a background in Computer Science, I'm continuously developing my skills in 
 
 ---
 
-## 🛠️ Skills & Technologies
+🛠️ Skills & Technologies
 
-### 📊 Data Analytics
+📊 Data Analytics & Business Intelligence
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
-### 📚 Python Libraries
-
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
-</p>
-
-### 💻 Programming & Databases
+💻 Programming & Databases
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -44,40 +35,60 @@ With a background in Computer Science, I'm continuously developing my skills in 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-### 🤖 AI & Computer Vision
+📚 Data Analysis & Visualization Libraries
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
+</p>
+
+🤖 Machine Learning & Deep Learning
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+</p>
+
+👁️ Artificial Intelligence & Computer Vision
 
 <p>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge" alt="MediaPipe"/>
   <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge" alt="YOLO"/>
+  <img src="https://img.shields.io/badge/DeepFace-6A5ACD?style=for-the-badge" alt="DeepFace"/>
 </p>
 
----
+📚 Currently Learning
 
-## 📚 Currently Learning
+Advanced SQL for business analysis
 
-- Advanced SQL for business analysis
-- Data cleaning and exploratory data analysis
-- Excel for business reporting and analysis
-- Data visualization and dashboard development
-- Business problem-solving and analytical thinking
-- Applying data insights to real-world business scenarios
+Data cleaning and exploratory data analysis
 
----
+Power BI dashboards and business intelligence
 
-## 🎯 Areas of Interest
+Excel for business reporting and analysis
 
-- Business Analytics
-- Data Analytics
-- Business Intelligence
-- Data Visualization
-- Business Strategy
-- Artificial Intelligence
-- Technology-Driven Problem Solving
+Applying data insights to real-world business scenarios
 
----
+🎯 Areas of Interest
 
-## 📊 GitHub Statistics
+Business Analytics
+
+Data Analytics
+
+Business Intelligence
+
+Data Visualization
+
+Artificial Intelligence
+
+Business Strategy
+
+Technology-Driven Problem Solving
+
+📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prajwalmaik2828&show_icons=true&theme=tokyonight&hide_border=true" alt="Prajwal's GitHub Statistics"/>
@@ -87,14 +98,10 @@ With a background in Computer Science, I'm continuously developing my skills in 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalmaik2828&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 </p>
 
----
+📫 Contact
 
-## 📫 Contact
+📧 Email: YOUR_EMAIL_ADDRESS
 
-📧 **Email:** prajwalunaik2828@gmail.com
-
----
-
-### 💡 *Turning Data into Insights, and Insights into Better Decisions.*
+💡 Turning Data into Insights, and Insights into Better Decisions.
 
 Thanks for visiting my profile! ⭐
