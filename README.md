@@ -6,12 +6,12 @@ I'm passionate about **Business Analytics, Data Analysis, Machine Learning, and 
 
 With a background in Computer Science, I'm continuously developing my skills in data analytics, business intelligence, machine learning, and data visualization while exploring the intersection of technology and business.
 
--📊 Interested in Business Analytics and Data-Driven Decision Making
--🐍 Exploring Python, SQL, and Data Analysis
--📈 Learning to transform raw data into actionable business insights
--🤖 Experienced in exploring AI-based applications and computer vision projects
--🌱 Continuously learning and building practical projects
--🎯 Goal: To bridge the gap between technology, data, and business strategy
+- 📊 Interested in Business Analytics and Data-Driven Decision Making
+- 🐍 Exploring Python, SQL, and Data Analysis
+- 📈 Learning to transform raw data into actionable business insights
+- 🤖 Experienced in exploring AI-based applications and computer vision projects
+- 🌱 Continuously learning and building practical projects
+- 🎯 Goal: To bridge the gap between technology, data, and business strategy
 
 ---
 
